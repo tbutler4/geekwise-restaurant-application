@@ -3,8 +3,10 @@ I made the decision to use React as my Framework for the following reasons:
 - React lets you build rich user-interfaces easily. Quality of user-interfaces is important because a poorly designed user-interface is   generally less user-friendly and the users will not like a poorly designed UI.
 - Faster Development with the reusable components and development tools. 
 -React has a Simply library
+
 Q: Are there any improvements you could make to your submission?
 With more time the app would be production ready including security, testing, tailored UI, optimized relational database, and microservices.
+
 Q: What would you do differently if you were given more time?
 -I would focus on the backend primarily then move to the UI last.
 
